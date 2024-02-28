@@ -11,6 +11,12 @@ I know I certainly love balls.
 1. Enter a Modded Lobby ([Utilla](https://github.com/legoandmars/Utilla/releases) to get those).
 2. Enjoy touching that ball.
 # Installation:
-Installation process will be setup soon!
+1. Get the latest Release from [Releases](https://github.com/kultdeveloper/kultsball/releases/)
+2. Extract the ZIP file.
+3. Drag the folder "plugins" into your BepInEx folder
+4. Start the game!
 # Requirements:
 - [Utilla](https://github.com/legoandmars/Utilla/releases) - Only use is modded lobbies and nothing else lol.
+# Special Thanks
+- Graicc ([Graicc's Gorilla Tag Mod Template](https://github.com/Graicc/GorillaTagModTemplate))
+- You, if you download it!
